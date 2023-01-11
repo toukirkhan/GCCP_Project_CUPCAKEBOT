@@ -1,10 +1,10 @@
 # GCCP_Project_CUPCAKEBOT
 
--This project is being made under the Google cloud career practitioner program.
+- This project is being made under the Google cloud career practitioner program.
 
--The Project is around diaologflow API that has been used to make a bakery-shop chatbot.
+- The Project is around diaologflow API that has been used to make a bakery-shop chatbot.
 
--The chatbot can be used as an aid for the customer interaction.
+- The chatbot can be used as an aid for the customer interaction.
 
 ![Screenshot 2023-01-09 233302](https://user-images.githubusercontent.com/88899011/211376776-b5e43b28-0524-4a56-91cb-e7bd01f3b04d.png)
 ![Screenshot 2023-01-09 233316](https://user-images.githubusercontent.com/88899011/211376792-f0691c8a-2f49-4632-99cc-2c26f1d04f55.png)
